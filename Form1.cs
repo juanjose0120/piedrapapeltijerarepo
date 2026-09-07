@@ -34,6 +34,7 @@ namespace PIEDRA
         int empates = 0;
 
         string rutaArchivo = "C:\\Users\\jujov\\OneDrive\\doc_lenguajes\\piedra, papel\\p,p,t.txt";
+
         public Form1()
         {
             InitializeComponent();
