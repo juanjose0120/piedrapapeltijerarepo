@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PIEDRA.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -88,6 +91,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\minecra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2026-09-03 at 6.31.43 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piedra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2026-09-03 at 6.31.43 PM1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2026-09-03 at 6.31.43 PM %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 8 sept 2026, 04_30_41 p.m..png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2026-09-03 at 6.31.45 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\labellll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tijera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gemini_Generated_Image_pbusl9pbusl9pbus.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

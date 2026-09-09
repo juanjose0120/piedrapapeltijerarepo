@@ -63,6 +63,26 @@ namespace PIEDRA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ChatGPT_Image_8_sept_2026__04_30_41_p_m_ {
+            get {
+                object obj = ResourceManager.GetObject("ChatGPT Image 8 sept 2026, 04_30_41 p.m.", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Gemini_Generated_Image_pbusl9pbusl9pbus {
+            get {
+                object obj = ResourceManager.GetObject("Gemini_Generated_Image_pbusl9pbusl9pbus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap images {
             get {
                 object obj = ResourceManager.GetObject("images", resourceCulture);
@@ -83,9 +103,79 @@ namespace PIEDRA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap labellll {
+            get {
+                object obj = ResourceManager.GetObject("labellll", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap minecra {
             get {
                 object obj = ResourceManager.GetObject("minecra", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap piedra {
+            get {
+                object obj = ResourceManager.GetObject("piedra", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tijera {
+            get {
+                object obj = ResourceManager.GetObject("Tijera", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_09_03_at_6_31_43_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-09-03 at 6.31.43 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_09_03_at_6_31_43_PM__1_ {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-09-03 at 6.31.43 PM (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_09_03_at_6_31_45_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-09-03 at 6.31.45 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_09_03_at_6_311 {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-09-03 at 6.311", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -478,5 +478,31 @@ namespace PIEDRA
         {
             jugar(2);
         }
+       
+
+        private void boton_MouseDown(object sender, MouseEventArgs e)
+        {
+            Button boton = sender as Button;
+            if (boton != null)
+            {
+                boton.Top += 2;
+                boton.Left += 2;
+            }
+        }
+
+        private void boton_MouseUp(object sender, MouseEventArgs e)
+        {
+            Button boton = sender as Button;
+            if (boton != null)
+            {
+                boton.Top -= 2;
+                boton.Left -= 2;
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
