@@ -123,6 +123,16 @@ namespace PIEDRA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap papel_1 {
+            get {
+                object obj = ResourceManager.GetObject("papel_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap piedra {
             get {
                 object obj = ResourceManager.GetObject("piedra", resourceCulture);
@@ -133,9 +143,29 @@ namespace PIEDRA.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Piedra_1 {
+            get {
+                object obj = ResourceManager.GetObject("Piedra_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Tijera {
             get {
                 object obj = ResourceManager.GetObject("Tijera", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tijera_1 {
+            get {
+                object obj = ResourceManager.GetObject("Tijera_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
